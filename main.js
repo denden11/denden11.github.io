@@ -1,5 +1,5 @@
 var qrcode = new QRCode("qrcode", {
-    text: "http://jindo.dev.naver.com/collie",
+    text: "https://www.sap.com/index.html",
     width: 128,
     height: 128,
     colorDark : "#000000",
