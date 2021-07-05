@@ -1,4 +1,4 @@
-var qrcode = new QRCode("test", {
+var qrcode = new QRCode("qrcode", {
     text: "http://jindo.dev.naver.com/collie",
     width: 128,
     height: 128,
